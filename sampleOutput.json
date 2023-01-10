@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Greg Clary, Sonnet Swire",
+    "title": "Pelosi says children, grandchildren are 'heartbroken and traumatized' in first comments since attack - CNN",
+    "description": "House Speaker Nancy Pelosi says that while her husband, Paul, continues to improve following Friday's violent attack in their San Francisco home, their children and grandchildren \"are heartbroken and traumatized.\"",
+    "url": "https://www.cnn.com/2022/10/29/politics/nancy-pelosi-paul-pelosi-attack-statement/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221029210728-nancy-pelosi-file-1029.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-30T12:28:00Z",
+    "content": "House Speaker Nancy Pelosi says that while her husband, Paul, continues to improve following Fridays violent attack in their San Francisco home, their children and grandchildren are heartbroken and t… [+2230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "'SNL' Star Chris Redd Injury Photos From Brutal Attack - TMZ",
+    "description": "Chris Redd's face looks swollen and bruised after being attacked in NYC.",
+    "url": "https://www.tmz.com/2022/10/30/chris-redd-attack-injury-photos-brass-knuckles/",
+    "urlToImage": "https://imagez.tmz.com/image/45/16by9/2022/10/28/457991ccf8d448f5b383e6a7764f055f_xl.jpg",
+    "publishedAt": "2022-10-30T09:00:00Z",
+    "content": "'SNL' alum Chris Redd is smiling through the pain after being attacked in New York City ... his nose is stitched up and his eyes are swollen and bruised.\r\nTMZ obtained these photos of the injuries Ch… [+706 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Obama interrupted by heckler while addressing Paul Pelosi attack - The Hill",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzcxMTAwMC1vYmFtYS1pbnRlcnJ1cHRlZC1ieS1oZWNrbGVyLXdoaWxlLWFkZHJlc3NpbmctcGF1bC1wZWxvc2ktYXR0YWNrL9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-10-30T03:47:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "Dustin Jones",
+    "title": "Threat of domestic attacks on the rise before midterm elections - NPR",
+    "description": "Law enforcement officials are warning of potential attacks against election officials, political candidates, religious minorities and others.",
+    "url": "https://www.npr.org/2022/10/29/1132537240/government-warns-domestic-attacks-midterm-elections",
+    "urlToImage": "https://media.npr.org/assets/img/2022/10/29/gettyimages-1229436946_wide-8d78f165c632db0f45395369d203a8a2e9ece6e2-s1400-c100.jpg",
+    "publishedAt": "2022-10-29T17:03:25Z",
+    "content": "Security personnel wait for voters outside the Leon County Supervisor of Elections office on Nov. 3, 2020, in Tallahassee, Fla.\r\nMark Wallheiser/Getty Images\r\nU.S. security agencies have issued a hei… [+2694 chars]"
+    }
+    ]
+    }
